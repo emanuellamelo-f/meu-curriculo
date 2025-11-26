@@ -1,0 +1,8 @@
+{
+  "extends": [],
+  "rules": {
+    "react/forbid-dom-props": "off",
+    "react/no-unknown-property": "off"
+  },
+  "ignorePatterns": ["*.tsx", "*.jsx"]
+}
